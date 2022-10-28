@@ -1,1 +1,3 @@
-# praktikum2
+# ERIK MAULANA 
+*KELAS: TI21C1*
+*NIM: 312110188*
